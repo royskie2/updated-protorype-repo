@@ -343,7 +343,7 @@ header {
 /* Hero Section */
 .hero {
   position: relative;
-  background-image: url("https://royskie2.github.io/SmartVendorism/picture/herobg.png");
+  background-image: url("https://raw.githubusercontent.com/royskie2/updated-protorype-repo/SmartVendorism/picture/herobg.png");
   background-size: cover;
   background-position: center;
   color: var(--white);
